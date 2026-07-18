@@ -1,1 +1,2 @@
-# Autonomous-AI-Agent
+Built a FastAPI-based autonomous AI agent that converts natural language requests into structured business documents by creating its own execution plan (TODO list) and executing tasks sequentially using a Groqhosted LLM.  Implemented multi-step planning and automated DOCX generation to produce professionally formatted proposals, reports, and project plans with minimal user input.  Developed a Streamlit interface with FastAPI integration for request submission, execution tracking, document generation, and download, including request validation and basic error handling. 
+Tech stack: Python, FastAPI, Streamlit, Groq LLM API, python-docx, Uvicorn, Git 
